@@ -1,0 +1,18 @@
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: asset-url("../img/pic.png");
+  background-image: image-url("../img/pic.png");
+     
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
